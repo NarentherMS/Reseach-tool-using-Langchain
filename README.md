@@ -1,0 +1,1 @@
+In my LLM project, I seamlessly integrated Langchain, OpenAI, and an unstructured URL loader for efficient URL loading. Employing a text splitter for optimal chunk segmentation, I utilized FAISS for vector database management and RetrievalQAwithsourceschain for effective retrieval
